@@ -1,0 +1,946 @@
+INDEX,YEAR,AVG_HOURS_SLEPT,STANDARD_ERROR,TYPE_OF_DAYS,AGE_GROUP,SEX
+0,2003,8.57,0.018,All days,15 years and over,Both
+1,2004,8.55,0.026,All days,15 years and over,Both
+2,2005,8.62,0.023,All days,15 years and over,Both
+3,2006,8.63,0.024,All days,15 years and over,Both
+4,2007,8.57,0.024,All days,15 years and over,Both
+5,2008,8.6,0.023,All days,15 years and over,Both
+6,2009,8.67,0.023,All days,15 years and over,Both
+7,2010,8.67,0.024,All days,15 years and over,Both
+8,2011,8.71,0.026,All days,15 years and over,Both
+9,2012,8.73,0.026,All days,15 years and over,Both
+10,2013,8.74,0.027,All days,15 years and over,Both
+11,2014,8.8,0.025,All days,15 years and over,Both
+12,2015,8.83,0.027,All days,15 years and over,Both
+13,2016,8.79,0.028,All days,15 years and over,Both
+14,2017,8.8,0.027,All days,15 years and over,Both
+15,2003,8.26,0.023,Nonholiday weekdays,15 years and over,Both
+16,2004,8.25,0.034,Nonholiday weekdays,15 years and over,Both
+17,2005,8.35,0.03,Nonholiday weekdays,15 years and over,Both
+18,2006,8.33,0.032,Nonholiday weekdays,15 years and over,Both
+19,2007,8.29,0.032,Nonholiday weekdays,15 years and over,Both
+20,2008,8.3,0.032,Nonholiday weekdays,15 years and over,Both
+21,2009,8.39,0.031,Nonholiday weekdays,15 years and over,Both
+22,2010,8.38,0.031,Nonholiday weekdays,15 years and over,Both
+23,2011,8.45,0.034,Nonholiday weekdays,15 years and over,Both
+24,2012,8.45,0.034,Nonholiday weekdays,15 years and over,Both
+25,2013,8.48,0.036,Nonholiday weekdays,15 years and over,Both
+26,2014,8.54,0.031,Nonholiday weekdays,15 years and over,Both
+27,2015,8.59,0.035,Nonholiday weekdays,15 years and over,Both
+28,2016,8.5,0.037,Nonholiday weekdays,15 years and over,Both
+29,2017,8.53,0.035,Nonholiday weekdays,15 years and over,Both
+30,2003,9.29,0.026,Weekend days and holidays,15 years and over,Both
+31,2004,9.25,0.032,Weekend days and holidays,15 years and over,Both
+32,2005,9.28,0.037,Weekend days and holidays,15 years and over,Both
+33,2006,9.32,0.036,Weekend days and holidays,15 years and over,Both
+34,2007,9.24,0.035,Weekend days and holidays,15 years and over,Both
+35,2008,9.31,0.036,Weekend days and holidays,15 years and over,Both
+36,2009,9.33,0.031,Weekend days and holidays,15 years and over,Both
+37,2010,9.34,0.032,Weekend days and holidays,15 years and over,Both
+38,2011,9.35,0.04,Weekend days and holidays,15 years and over,Both
+39,2012,9.39,0.036,Weekend days and holidays,15 years and over,Both
+40,2013,9.34,0.039,Weekend days and holidays,15 years and over,Both
+41,2014,9.4,0.035,Weekend days and holidays,15 years and over,Both
+42,2015,9.4,0.041,Weekend days and holidays,15 years and over,Both
+43,2016,9.48,0.04,Weekend days and holidays,15 years and over,Both
+44,2017,9.44,0.035,Weekend days and holidays,15 years and over,Both
+45,2003,9.15,0.06,All days,15 to 24 years,Both
+46,2004,9.23,0.081,All days,15 to 24 years,Both
+47,2005,9.27,0.077,All days,15 to 24 years,Both
+48,2006,9.19,0.064,All days,15 to 24 years,Both
+49,2007,9.11,0.085,All days,15 to 24 years,Both
+50,2008,9.2,0.087,All days,15 to 24 years,Both
+51,2009,9.45,0.082,All days,15 to 24 years,Both
+52,2010,9.24,0.082,All days,15 to 24 years,Both
+53,2011,9.32,0.074,All days,15 to 24 years,Both
+54,2012,9.34,0.081,All days,15 to 24 years,Both
+55,2013,9.34,0.093,All days,15 to 24 years,Both
+56,2014,9.53,0.091,All days,15 to 24 years,Both
+57,2015,9.58,0.106,All days,15 to 24 years,Both
+58,2016,9.55,0.104,All days,15 to 24 years,Both
+59,2017,9.72,0.101,All days,15 to 24 years,Both
+60,2003,8.75,0.08,Nonholiday weekdays,15 to 24 years,Both
+61,2004,8.79,0.113,Nonholiday weekdays,15 to 24 years,Both
+62,2005,9.01,0.1,Nonholiday weekdays,15 to 24 years,Both
+63,2006,8.84,0.085,Nonholiday weekdays,15 to 24 years,Both
+64,2007,8.71,0.105,Nonholiday weekdays,15 to 24 years,Both
+65,2008,8.83,0.106,Nonholiday weekdays,15 to 24 years,Both
+66,2009,9.19,0.109,Nonholiday weekdays,15 to 24 years,Both
+67,2010,8.94,0.109,Nonholiday weekdays,15 to 24 years,Both
+68,2011,8.99,0.093,Nonholiday weekdays,15 to 24 years,Both
+69,2012,8.95,0.111,Nonholiday weekdays,15 to 24 years,Both
+70,2013,9,0.116,Nonholiday weekdays,15 to 24 years,Both
+71,2014,9.31,0.118,Nonholiday weekdays,15 to 24 years,Both
+72,2015,9.39,0.129,Nonholiday weekdays,15 to 24 years,Both
+73,2016,9.12,0.129,Nonholiday weekdays,15 to 24 years,Both
+74,2017,9.38,0.133,Nonholiday weekdays,15 to 24 years,Both
+75,2003,10.1,0.086,Weekend days and holidays,15 to 24 years,Both
+76,2004,10.28,0.115,Weekend days and holidays,15 to 24 years,Both
+77,2005,9.89,0.1,Weekend days and holidays,15 to 24 years,Both
+78,2006,10.03,0.109,Weekend days and holidays,15 to 24 years,Both
+79,2007,10,0.123,Weekend days and holidays,15 to 24 years,Both
+80,2008,10.04,0.128,Weekend days and holidays,15 to 24 years,Both
+81,2009,10.04,0.104,Weekend days and holidays,15 to 24 years,Both
+82,2010,9.96,0.105,Weekend days and holidays,15 to 24 years,Both
+83,2011,10.13,0.133,Weekend days and holidays,15 to 24 years,Both
+84,2012,10.25,0.1,Weekend days and holidays,15 to 24 years,Both
+85,2013,10.16,0.136,Weekend days and holidays,15 to 24 years,Both
+86,2014,10.06,0.109,Weekend days and holidays,15 to 24 years,Both
+87,2015,10.02,0.141,Weekend days and holidays,15 to 24 years,Both
+88,2016,10.58,0.129,Weekend days and holidays,15 to 24 years,Both
+89,2017,10.48,0.113,Weekend days and holidays,15 to 24 years,Both
+90,2003,8.52,0.043,All days,25 to 34 years,Both
+91,2004,8.46,0.068,All days,25 to 34 years,Both
+92,2005,8.65,0.057,All days,25 to 34 years,Both
+93,2006,8.58,0.063,All days,25 to 34 years,Both
+94,2007,8.57,0.067,All days,25 to 34 years,Both
+95,2008,8.54,0.065,All days,25 to 34 years,Both
+96,2009,8.54,0.066,All days,25 to 34 years,Both
+97,2010,8.58,0.063,All days,25 to 34 years,Both
+98,2011,8.6,0.057,All days,25 to 34 years,Both
+99,2012,8.76,0.061,All days,25 to 34 years,Both
+100,2013,8.65,0.066,All days,25 to 34 years,Both
+101,2014,8.77,0.062,All days,25 to 34 years,Both
+102,2015,8.87,0.074,All days,25 to 34 years,Both
+103,2016,8.71,0.066,All days,25 to 34 years,Both
+104,2017,8.76,0.074,All days,25 to 34 years,Both
+105,2003,8.18,0.053,Nonholiday weekdays,25 to 34 years,Both
+106,2004,8.08,0.089,Nonholiday weekdays,25 to 34 years,Both
+107,2005,8.24,0.07,Nonholiday weekdays,25 to 34 years,Both
+108,2006,8.19,0.082,Nonholiday weekdays,25 to 34 years,Both
+109,2007,8.22,0.089,Nonholiday weekdays,25 to 34 years,Both
+110,2008,8.16,0.086,Nonholiday weekdays,25 to 34 years,Both
+111,2009,8.18,0.083,Nonholiday weekdays,25 to 34 years,Both
+112,2010,8.25,0.079,Nonholiday weekdays,25 to 34 years,Both
+113,2011,8.26,0.077,Nonholiday weekdays,25 to 34 years,Both
+114,2012,8.45,0.076,Nonholiday weekdays,25 to 34 years,Both
+115,2013,8.34,0.086,Nonholiday weekdays,25 to 34 years,Both
+116,2014,8.44,0.082,Nonholiday weekdays,25 to 34 years,Both
+117,2015,8.63,0.094,Nonholiday weekdays,25 to 34 years,Both
+118,2016,8.36,0.088,Nonholiday weekdays,25 to 34 years,Both
+119,2017,8.41,0.094,Nonholiday weekdays,25 to 34 years,Both
+120,2003,9.34,0.064,Weekend days and holidays,25 to 34 years,Both
+121,2004,9.37,0.08,Weekend days and holidays,25 to 34 years,Both
+122,2005,9.6,0.101,Weekend days and holidays,25 to 34 years,Both
+123,2006,9.47,0.077,Weekend days and holidays,25 to 34 years,Both
+124,2007,9.4,0.086,Weekend days and holidays,25 to 34 years,Both
+125,2008,9.45,0.084,Weekend days and holidays,25 to 34 years,Both
+126,2009,9.43,0.084,Weekend days and holidays,25 to 34 years,Both
+127,2010,9.4,0.092,Weekend days and holidays,25 to 34 years,Both
+128,2011,9.39,0.104,Weekend days and holidays,25 to 34 years,Both
+129,2012,9.49,0.088,Weekend days and holidays,25 to 34 years,Both
+130,2013,9.37,0.093,Weekend days and holidays,25 to 34 years,Both
+131,2014,9.52,0.092,Weekend days and holidays,25 to 34 years,Both
+132,2015,9.43,0.092,Weekend days and holidays,25 to 34 years,Both
+133,2016,9.55,0.092,Weekend days and holidays,25 to 34 years,Both
+134,2017,9.56,0.103,Weekend days and holidays,25 to 34 years,Both
+135,2003,8.34,0.042,All days,35 to 44 years,Both
+136,2004,8.25,0.056,All days,35 to 44 years,Both
+137,2005,8.37,0.043,All days,35 to 44 years,Both
+138,2006,8.39,0.052,All days,35 to 44 years,Both
+139,2007,8.35,0.052,All days,35 to 44 years,Both
+140,2008,8.38,0.046,All days,35 to 44 years,Both
+141,2009,8.41,0.047,All days,35 to 44 years,Both
+142,2010,8.4,0.049,All days,35 to 44 years,Both
+143,2011,8.43,0.053,All days,35 to 44 years,Both
+144,2012,8.52,0.052,All days,35 to 44 years,Both
+145,2013,8.52,0.046,All days,35 to 44 years,Both
+146,2014,8.42,0.054,All days,35 to 44 years,Both
+147,2015,8.67,0.073,All days,35 to 44 years,Both
+148,2016,8.5,0.062,All days,35 to 44 years,Both
+149,2017,8.57,0.065,All days,35 to 44 years,Both
+150,2003,8,0.053,Nonholiday weekdays,35 to 44 years,Both
+151,2004,7.95,0.073,Nonholiday weekdays,35 to 44 years,Both
+152,2005,8.02,0.059,Nonholiday weekdays,35 to 44 years,Both
+153,2006,8.05,0.069,Nonholiday weekdays,35 to 44 years,Both
+154,2007,8.03,0.07,Nonholiday weekdays,35 to 44 years,Both
+155,2008,8.04,0.058,Nonholiday weekdays,35 to 44 years,Both
+156,2009,8.09,0.059,Nonholiday weekdays,35 to 44 years,Both
+157,2010,8.05,0.066,Nonholiday weekdays,35 to 44 years,Both
+158,2011,8.08,0.068,Nonholiday weekdays,35 to 44 years,Both
+159,2012,8.19,0.07,Nonholiday weekdays,35 to 44 years,Both
+160,2013,8.18,0.061,Nonholiday weekdays,35 to 44 years,Both
+161,2014,8.02,0.065,Nonholiday weekdays,35 to 44 years,Both
+162,2015,8.36,0.093,Nonholiday weekdays,35 to 44 years,Both
+163,2016,8.14,0.086,Nonholiday weekdays,35 to 44 years,Both
+164,2017,8.23,0.084,Nonholiday weekdays,35 to 44 years,Both
+165,2003,9.16,0.049,Weekend days and holidays,35 to 44 years,Both
+166,2004,8.99,0.063,Weekend days and holidays,35 to 44 years,Both
+167,2005,9.21,0.067,Weekend days and holidays,35 to 44 years,Both
+168,2006,9.16,0.074,Weekend days and holidays,35 to 44 years,Both
+169,2007,9.12,0.064,Weekend days and holidays,35 to 44 years,Both
+170,2008,9.17,0.083,Weekend days and holidays,35 to 44 years,Both
+171,2009,9.17,0.067,Weekend days and holidays,35 to 44 years,Both
+172,2010,9.23,0.06,Weekend days and holidays,35 to 44 years,Both
+173,2011,9.25,0.087,Weekend days and holidays,35 to 44 years,Both
+174,2012,9.28,0.07,Weekend days and holidays,35 to 44 years,Both
+175,2013,9.32,0.072,Weekend days and holidays,35 to 44 years,Both
+176,2014,9.33,0.076,Weekend days and holidays,35 to 44 years,Both
+177,2015,9.41,0.088,Weekend days and holidays,35 to 44 years,Both
+178,2016,9.34,0.09,Weekend days and holidays,35 to 44 years,Both
+179,2017,9.37,0.088,Weekend days and holidays,35 to 44 years,Both
+180,2003,8.17,0.036,All days,45 to 54 years,Both
+181,2004,8.17,0.047,All days,45 to 54 years,Both
+182,2005,8.2,0.054,All days,45 to 54 years,Both
+183,2006,8.3,0.056,All days,45 to 54 years,Both
+184,2007,8.24,0.059,All days,45 to 54 years,Both
+185,2008,8.27,0.059,All days,45 to 54 years,Both
+186,2009,8.29,0.043,All days,45 to 54 years,Both
+187,2010,8.26,0.05,All days,45 to 54 years,Both
+188,2011,8.37,0.06,All days,45 to 54 years,Both
+189,2012,8.42,0.059,All days,45 to 54 years,Both
+190,2013,8.51,0.055,All days,45 to 54 years,Both
+191,2014,8.57,0.059,All days,45 to 54 years,Both
+192,2015,8.36,0.056,All days,45 to 54 years,Both
+193,2016,8.45,0.068,All days,45 to 54 years,Both
+194,2017,8.5,0.073,All days,45 to 54 years,Both
+195,2003,7.85,0.046,Nonholiday weekdays,45 to 54 years,Both
+196,2004,7.86,0.06,Nonholiday weekdays,45 to 54 years,Both
+197,2005,7.89,0.07,Nonholiday weekdays,45 to 54 years,Both
+198,2006,7.92,0.077,Nonholiday weekdays,45 to 54 years,Both
+199,2007,7.95,0.071,Nonholiday weekdays,45 to 54 years,Both
+200,2008,7.94,0.075,Nonholiday weekdays,45 to 54 years,Both
+201,2009,7.95,0.054,Nonholiday weekdays,45 to 54 years,Both
+202,2010,7.89,0.066,Nonholiday weekdays,45 to 54 years,Both
+203,2011,8.1,0.074,Nonholiday weekdays,45 to 54 years,Both
+204,2012,8.07,0.07,Nonholiday weekdays,45 to 54 years,Both
+205,2013,8.22,0.069,Nonholiday weekdays,45 to 54 years,Both
+206,2014,8.23,0.073,Nonholiday weekdays,45 to 54 years,Both
+207,2015,7.97,0.07,Nonholiday weekdays,45 to 54 years,Both
+208,2016,8.13,0.087,Nonholiday weekdays,45 to 54 years,Both
+209,2017,8.22,0.1,Nonholiday weekdays,45 to 54 years,Both
+210,2003,8.93,0.054,Weekend days and holidays,45 to 54 years,Both
+211,2004,8.9,0.069,Weekend days and holidays,45 to 54 years,Both
+212,2005,8.95,0.074,Weekend days and holidays,45 to 54 years,Both
+213,2006,9.18,0.078,Weekend days and holidays,45 to 54 years,Both
+214,2007,8.92,0.089,Weekend days and holidays,45 to 54 years,Both
+215,2008,9.05,0.069,Weekend days and holidays,45 to 54 years,Both
+216,2009,9.06,0.084,Weekend days and holidays,45 to 54 years,Both
+217,2010,9.12,0.075,Weekend days and holidays,45 to 54 years,Both
+218,2011,9.02,0.074,Weekend days and holidays,45 to 54 years,Both
+219,2012,9.22,0.103,Weekend days and holidays,45 to 54 years,Both
+220,2013,9.17,0.087,Weekend days and holidays,45 to 54 years,Both
+221,2014,9.37,0.084,Weekend days and holidays,45 to 54 years,Both
+222,2015,9.32,0.081,Weekend days and holidays,45 to 54 years,Both
+223,2016,9.2,0.089,Weekend days and holidays,45 to 54 years,Both
+224,2017,9.15,0.092,Weekend days and holidays,45 to 54 years,Both
+225,2003,8.36,0.04,All days,55 to 64 years,Both
+226,2004,8.3,0.054,All days,55 to 64 years,Both
+227,2005,8.28,0.054,All days,55 to 64 years,Both
+228,2006,8.4,0.063,All days,55 to 64 years,Both
+229,2007,8.26,0.06,All days,55 to 64 years,Both
+230,2008,8.26,0.055,All days,55 to 64 years,Both
+231,2009,8.43,0.055,All days,55 to 64 years,Both
+232,2010,8.5,0.053,All days,55 to 64 years,Both
+233,2011,8.47,0.051,All days,55 to 64 years,Both
+234,2012,8.47,0.057,All days,55 to 64 years,Both
+235,2013,8.49,0.054,All days,55 to 64 years,Both
+236,2014,8.43,0.049,All days,55 to 64 years,Both
+237,2015,8.51,0.059,All days,55 to 64 years,Both
+238,2016,8.53,0.065,All days,55 to 64 years,Both
+239,2017,8.41,0.06,All days,55 to 64 years,Both
+240,2003,8.12,0.051,Nonholiday weekdays,55 to 64 years,Both
+241,2004,8.1,0.068,Nonholiday weekdays,55 to 64 years,Both
+242,2005,8.07,0.068,Nonholiday weekdays,55 to 64 years,Both
+243,2006,8.16,0.078,Nonholiday weekdays,55 to 64 years,Both
+244,2007,8.06,0.076,Nonholiday weekdays,55 to 64 years,Both
+245,2008,8,0.066,Nonholiday weekdays,55 to 64 years,Both
+246,2009,8.17,0.07,Nonholiday weekdays,55 to 64 years,Both
+247,2010,8.26,0.066,Nonholiday weekdays,55 to 64 years,Both
+248,2011,8.24,0.069,Nonholiday weekdays,55 to 64 years,Both
+249,2012,8.25,0.077,Nonholiday weekdays,55 to 64 years,Both
+250,2013,8.32,0.075,Nonholiday weekdays,55 to 64 years,Both
+251,2014,8.21,0.063,Nonholiday weekdays,55 to 64 years,Both
+252,2015,8.31,0.075,Nonholiday weekdays,55 to 64 years,Both
+253,2016,8.28,0.077,Nonholiday weekdays,55 to 64 years,Both
+254,2017,8.15,0.076,Nonholiday weekdays,55 to 64 years,Both
+255,2003,8.92,0.064,Weekend days and holidays,55 to 64 years,Both
+256,2004,8.78,0.068,Weekend days and holidays,55 to 64 years,Both
+257,2005,8.77,0.082,Weekend days and holidays,55 to 64 years,Both
+258,2006,8.96,0.093,Weekend days and holidays,55 to 64 years,Both
+259,2007,8.73,0.081,Weekend days and holidays,55 to 64 years,Both
+260,2008,8.89,0.081,Weekend days and holidays,55 to 64 years,Both
+261,2009,9.06,0.086,Weekend days and holidays,55 to 64 years,Both
+262,2010,9.08,0.077,Weekend days and holidays,55 to 64 years,Both
+263,2011,9.02,0.085,Weekend days and holidays,55 to 64 years,Both
+264,2012,8.98,0.088,Weekend days and holidays,55 to 64 years,Both
+265,2013,8.88,0.071,Weekend days and holidays,55 to 64 years,Both
+266,2014,8.97,0.071,Weekend days and holidays,55 to 64 years,Both
+267,2015,8.98,0.085,Weekend days and holidays,55 to 64 years,Both
+268,2016,9.12,0.093,Weekend days and holidays,55 to 64 years,Both
+269,2017,9.02,0.074,Weekend days and holidays,55 to 64 years,Both
+270,2003,8.86,0.039,All days,65 years and over,Both
+271,2004,8.86,0.041,All days,65 years and over,Both
+272,2005,8.96,0.057,All days,65 years and over,Both
+273,2006,8.91,0.054,All days,65 years and over,Both
+274,2007,8.91,0.061,All days,65 years and over,Both
+275,2008,8.94,0.057,All days,65 years and over,Both
+276,2009,8.91,0.05,All days,65 years and over,Both
+277,2010,9.02,0.053,All days,65 years and over,Both
+278,2011,9.08,0.056,All days,65 years and over,Both
+279,2012,8.84,0.053,All days,65 years and over,Both
+280,2013,8.87,0.051,All days,65 years and over,Both
+281,2014,9,0.055,All days,65 years and over,Both
+282,2015,8.97,0.047,All days,65 years and over,Both
+283,2016,8.94,0.047,All days,65 years and over,Both
+284,2017,8.84,0.054,All days,65 years and over,Both
+285,2003,8.74,0.049,Nonholiday weekdays,65 years and over,Both
+286,2004,8.77,0.054,Nonholiday weekdays,65 years and over,Both
+287,2005,8.88,0.071,Nonholiday weekdays,65 years and over,Both
+288,2006,8.87,0.072,Nonholiday weekdays,65 years and over,Both
+289,2007,8.81,0.079,Nonholiday weekdays,65 years and over,Both
+290,2008,8.86,0.072,Nonholiday weekdays,65 years and over,Both
+291,2009,8.78,0.065,Nonholiday weekdays,65 years and over,Both
+292,2010,8.95,0.065,Nonholiday weekdays,65 years and over,Both
+293,2011,8.99,0.072,Nonholiday weekdays,65 years and over,Both
+294,2012,8.74,0.066,Nonholiday weekdays,65 years and over,Both
+295,2013,8.76,0.068,Nonholiday weekdays,65 years and over,Both
+296,2014,8.95,0.072,Nonholiday weekdays,65 years and over,Both
+297,2015,8.86,0.062,Nonholiday weekdays,65 years and over,Both
+298,2016,8.87,0.061,Nonholiday weekdays,65 years and over,Both
+299,2017,8.75,0.07,Nonholiday weekdays,65 years and over,Both
+300,2003,9.15,0.051,Weekend days and holidays,65 years and over,Both
+301,2004,9.06,0.057,Weekend days and holidays,65 years and over,Both
+302,2005,9.15,0.076,Weekend days and holidays,65 years and over,Both
+303,2006,9.02,0.069,Weekend days and holidays,65 years and over,Both
+304,2007,9.16,0.079,Weekend days and holidays,65 years and over,Both
+305,2008,9.14,0.08,Weekend days and holidays,65 years and over,Both
+306,2009,9.2,0.067,Weekend days and holidays,65 years and over,Both
+307,2010,9.2,0.076,Weekend days and holidays,65 years and over,Both
+308,2011,9.27,0.073,Weekend days and holidays,65 years and over,Both
+309,2012,9.08,0.077,Weekend days and holidays,65 years and over,Both
+310,2013,9.12,0.063,Weekend days and holidays,65 years and over,Both
+311,2014,9.12,0.072,Weekend days and holidays,65 years and over,Both
+312,2015,9.23,0.062,Weekend days and holidays,65 years and over,Both
+313,2016,9.11,0.067,Weekend days and holidays,65 years and over,Both
+314,2017,9.03,0.077,Weekend days and holidays,65 years and over,Both
+315,2003,8.48,0.031,All days,15 years and over,Men
+316,2004,8.48,0.04,All days,15 years and over,Men
+317,2005,8.53,0.034,All days,15 years and over,Men
+318,2006,8.56,0.035,All days,15 years and over,Men
+319,2007,8.52,0.038,All days,15 years and over,Men
+320,2008,8.56,0.033,All days,15 years and over,Men
+321,2009,8.62,0.041,All days,15 years and over,Men
+322,2010,8.56,0.035,All days,15 years and over,Men
+323,2011,8.62,0.036,All days,15 years and over,Men
+324,2012,8.6,0.041,All days,15 years and over,Men
+325,2013,8.65,0.041,All days,15 years and over,Men
+326,2014,8.69,0.036,All days,15 years and over,Men
+327,2015,8.77,0.045,All days,15 years and over,Men
+328,2016,8.69,0.043,All days,15 years and over,Men
+329,2017,8.7,0.04,All days,15 years and over,Men
+330,2003,8.16,0.039,Nonholiday weekdays,15 years and over,Men
+331,2004,8.16,0.053,Nonholiday weekdays,15 years and over,Men
+332,2005,8.25,0.045,Nonholiday weekdays,15 years and over,Men
+333,2006,8.26,0.045,Nonholiday weekdays,15 years and over,Men
+334,2007,8.2,0.05,Nonholiday weekdays,15 years and over,Men
+335,2008,8.27,0.045,Nonholiday weekdays,15 years and over,Men
+336,2009,8.31,0.053,Nonholiday weekdays,15 years and over,Men
+337,2010,8.27,0.047,Nonholiday weekdays,15 years and over,Men
+338,2011,8.33,0.046,Nonholiday weekdays,15 years and over,Men
+339,2012,8.28,0.052,Nonholiday weekdays,15 years and over,Men
+340,2013,8.38,0.053,Nonholiday weekdays,15 years and over,Men
+341,2014,8.44,0.047,Nonholiday weekdays,15 years and over,Men
+342,2015,8.52,0.058,Nonholiday weekdays,15 years and over,Men
+343,2016,8.36,0.056,Nonholiday weekdays,15 years and over,Men
+344,2017,8.4,0.055,Nonholiday weekdays,15 years and over,Men
+345,2003,9.22,0.044,Weekend days and holidays,15 years and over,Men
+346,2004,9.23,0.046,Weekend days and holidays,15 years and over,Men
+347,2005,9.22,0.06,Weekend days and holidays,15 years and over,Men
+348,2006,9.28,0.055,Weekend days and holidays,15 years and over,Men
+349,2007,9.24,0.055,Weekend days and holidays,15 years and over,Men
+350,2008,9.25,0.055,Weekend days and holidays,15 years and over,Men
+351,2009,9.33,0.048,Weekend days and holidays,15 years and over,Men
+352,2010,9.28,0.046,Weekend days and holidays,15 years and over,Men
+353,2011,9.31,0.059,Weekend days and holidays,15 years and over,Men
+354,2012,9.33,0.059,Weekend days and holidays,15 years and over,Men
+355,2013,9.3,0.056,Weekend days and holidays,15 years and over,Men
+356,2014,9.26,0.053,Weekend days and holidays,15 years and over,Men
+357,2015,9.34,0.061,Weekend days and holidays,15 years and over,Men
+358,2016,9.47,0.061,Weekend days and holidays,15 years and over,Men
+359,2017,9.38,0.053,Weekend days and holidays,15 years and over,Men
+360,2003,9.14,0.095,All days,15 to 24 years,Men
+361,2004,9.12,0.109,All days,15 to 24 years,Men
+362,2005,9.2,0.118,All days,15 to 24 years,Men
+363,2006,9.21,0.108,All days,15 to 24 years,Men
+364,2007,9.03,0.125,All days,15 to 24 years,Men
+365,2008,9.27,0.122,All days,15 to 24 years,Men
+366,2009,9.56,0.136,All days,15 to 24 years,Men
+367,2010,9.21,0.117,All days,15 to 24 years,Men
+368,2011,9.33,0.107,All days,15 to 24 years,Men
+369,2012,9.16,0.118,All days,15 to 24 years,Men
+370,2013,9.3,0.14,All days,15 to 24 years,Men
+371,2014,9.47,0.118,All days,15 to 24 years,Men
+372,2015,9.51,0.162,All days,15 to 24 years,Men
+373,2016,9.59,0.15,All days,15 to 24 years,Men
+374,2017,9.78,0.133,All days,15 to 24 years,Men
+375,2003,8.73,0.131,Nonholiday weekdays,15 to 24 years,Men
+376,2004,8.65,0.143,Nonholiday weekdays,15 to 24 years,Men
+377,2005,8.88,0.154,Nonholiday weekdays,15 to 24 years,Men
+378,2006,8.93,0.133,Nonholiday weekdays,15 to 24 years,Men
+379,2007,8.58,0.163,Nonholiday weekdays,15 to 24 years,Men
+380,2008,8.9,0.153,Nonholiday weekdays,15 to 24 years,Men
+381,2009,9.25,0.177,Nonholiday weekdays,15 to 24 years,Men
+382,2010,8.88,0.159,Nonholiday weekdays,15 to 24 years,Men
+383,2011,9.01,0.136,Nonholiday weekdays,15 to 24 years,Men
+384,2012,8.68,0.158,Nonholiday weekdays,15 to 24 years,Men
+385,2013,8.93,0.164,Nonholiday weekdays,15 to 24 years,Men
+386,2014,9.33,0.158,Nonholiday weekdays,15 to 24 years,Men
+387,2015,9.35,0.214,Nonholiday weekdays,15 to 24 years,Men
+388,2016,9.14,0.189,Nonholiday weekdays,15 to 24 years,Men
+389,2017,9.46,0.184,Nonholiday weekdays,15 to 24 years,Men
+390,2003,10.13,0.133,Weekend days and holidays,15 to 24 years,Men
+391,2004,10.25,0.156,Weekend days and holidays,15 to 24 years,Men
+392,2005,9.96,0.164,Weekend days and holidays,15 to 24 years,Men
+393,2006,9.88,0.18,Weekend days and holidays,15 to 24 years,Men
+394,2007,9.99,0.182,Weekend days and holidays,15 to 24 years,Men
+395,2008,10.13,0.18,Weekend days and holidays,15 to 24 years,Men
+396,2009,10.31,0.149,Weekend days and holidays,15 to 24 years,Men
+397,2010,9.99,0.148,Weekend days and holidays,15 to 24 years,Men
+398,2011,10.11,0.187,Weekend days and holidays,15 to 24 years,Men
+399,2012,10.24,0.153,Weekend days and holidays,15 to 24 years,Men
+400,2013,10.18,0.228,Weekend days and holidays,15 to 24 years,Men
+401,2014,9.8,0.134,Weekend days and holidays,15 to 24 years,Men
+402,2015,9.9,0.217,Weekend days and holidays,15 to 24 years,Men
+403,2016,10.65,0.189,Weekend days and holidays,15 to 24 years,Men
+404,2017,10.46,0.163,Weekend days and holidays,15 to 24 years,Men
+405,2003,8.3,0.066,All days,25 to 34 years,Men
+406,2004,8.42,0.118,All days,25 to 34 years,Men
+407,2005,8.44,0.092,All days,25 to 34 years,Men
+408,2006,8.4,0.096,All days,25 to 34 years,Men
+409,2007,8.45,0.108,All days,25 to 34 years,Men
+410,2008,8.48,0.093,All days,25 to 34 years,Men
+411,2009,8.48,0.103,All days,25 to 34 years,Men
+412,2010,8.28,0.097,All days,25 to 34 years,Men
+413,2011,8.37,0.1,All days,25 to 34 years,Men
+414,2012,8.55,0.093,All days,25 to 34 years,Men
+415,2013,8.45,0.104,All days,25 to 34 years,Men
+416,2014,8.62,0.1,All days,25 to 34 years,Men
+417,2015,8.79,0.122,All days,25 to 34 years,Men
+418,2016,8.54,0.101,All days,25 to 34 years,Men
+419,2017,8.47,0.116,All days,25 to 34 years,Men
+420,2003,7.91,0.079,Nonholiday weekdays,25 to 34 years,Men
+421,2004,8,0.157,Nonholiday weekdays,25 to 34 years,Men
+422,2005,8.01,0.114,Nonholiday weekdays,25 to 34 years,Men
+423,2006,7.94,0.121,Nonholiday weekdays,25 to 34 years,Men
+424,2007,8.02,0.143,Nonholiday weekdays,25 to 34 years,Men
+425,2008,8.13,0.12,Nonholiday weekdays,25 to 34 years,Men
+426,2009,8.13,0.133,Nonholiday weekdays,25 to 34 years,Men
+427,2010,7.91,0.117,Nonholiday weekdays,25 to 34 years,Men
+428,2011,7.94,0.131,Nonholiday weekdays,25 to 34 years,Men
+429,2012,8.25,0.118,Nonholiday weekdays,25 to 34 years,Men
+430,2013,8.12,0.137,Nonholiday weekdays,25 to 34 years,Men
+431,2014,8.31,0.127,Nonholiday weekdays,25 to 34 years,Men
+432,2015,8.55,0.154,Nonholiday weekdays,25 to 34 years,Men
+433,2016,8.17,0.128,Nonholiday weekdays,25 to 34 years,Men
+434,2017,8.02,0.157,Nonholiday weekdays,25 to 34 years,Men
+435,2003,9.23,0.106,Weekend days and holidays,25 to 34 years,Men
+436,2004,9.38,0.118,Weekend days and holidays,25 to 34 years,Men
+437,2005,9.46,0.163,Weekend days and holidays,25 to 34 years,Men
+438,2006,9.5,0.117,Weekend days and holidays,25 to 34 years,Men
+439,2007,9.43,0.138,Weekend days and holidays,25 to 34 years,Men
+440,2008,9.32,0.149,Weekend days and holidays,25 to 34 years,Men
+441,2009,9.34,0.133,Weekend days and holidays,25 to 34 years,Men
+442,2010,9.17,0.136,Weekend days and holidays,25 to 34 years,Men
+443,2011,9.34,0.171,Weekend days and holidays,25 to 34 years,Men
+444,2012,9.28,0.13,Weekend days and holidays,25 to 34 years,Men
+445,2013,9.22,0.13,Weekend days and holidays,25 to 34 years,Men
+446,2014,9.32,0.135,Weekend days and holidays,25 to 34 years,Men
+447,2015,9.33,0.151,Weekend days and holidays,25 to 34 years,Men
+448,2016,9.45,0.118,Weekend days and holidays,25 to 34 years,Men
+449,2017,9.45,0.148,Weekend days and holidays,25 to 34 years,Men
+450,2003,8.2,0.059,All days,35 to 44 years,Men
+451,2004,8.2,0.085,All days,35 to 44 years,Men
+452,2005,8.36,0.068,All days,35 to 44 years,Men
+453,2006,8.28,0.078,All days,35 to 44 years,Men
+454,2007,8.28,0.079,All days,35 to 44 years,Men
+455,2008,8.31,0.07,All days,35 to 44 years,Men
+456,2009,8.28,0.071,All days,35 to 44 years,Men
+457,2010,8.29,0.076,All days,35 to 44 years,Men
+458,2011,8.35,0.077,All days,35 to 44 years,Men
+459,2012,8.33,0.076,All days,35 to 44 years,Men
+460,2013,8.37,0.068,All days,35 to 44 years,Men
+461,2014,8.19,0.086,All days,35 to 44 years,Men
+462,2015,8.67,0.123,All days,35 to 44 years,Men
+463,2016,8.41,0.107,All days,35 to 44 years,Men
+464,2017,8.36,0.097,All days,35 to 44 years,Men
+465,2003,7.86,0.075,Nonholiday weekdays,35 to 44 years,Men
+466,2004,7.88,0.111,Nonholiday weekdays,35 to 44 years,Men
+467,2005,8.03,0.096,Nonholiday weekdays,35 to 44 years,Men
+468,2006,7.95,0.102,Nonholiday weekdays,35 to 44 years,Men
+469,2007,7.98,0.105,Nonholiday weekdays,35 to 44 years,Men
+470,2008,7.99,0.09,Nonholiday weekdays,35 to 44 years,Men
+471,2009,7.93,0.092,Nonholiday weekdays,35 to 44 years,Men
+472,2010,7.96,0.097,Nonholiday weekdays,35 to 44 years,Men
+473,2011,8,0.107,Nonholiday weekdays,35 to 44 years,Men
+474,2012,8.01,0.102,Nonholiday weekdays,35 to 44 years,Men
+475,2013,8.01,0.087,Nonholiday weekdays,35 to 44 years,Men
+476,2014,7.78,0.102,Nonholiday weekdays,35 to 44 years,Men
+477,2015,8.33,0.162,Nonholiday weekdays,35 to 44 years,Men
+478,2016,8.06,0.153,Nonholiday weekdays,35 to 44 years,Men
+479,2017,7.97,0.126,Nonholiday weekdays,35 to 44 years,Men
+480,2003,9,0.07,Weekend days and holidays,35 to 44 years,Men
+481,2004,8.99,0.099,Weekend days and holidays,35 to 44 years,Men
+482,2005,9.16,0.1,Weekend days and holidays,35 to 44 years,Men
+483,2006,9.05,0.099,Weekend days and holidays,35 to 44 years,Men
+484,2007,9,0.101,Weekend days and holidays,35 to 44 years,Men
+485,2008,9.06,0.128,Weekend days and holidays,35 to 44 years,Men
+486,2009,9.08,0.097,Weekend days and holidays,35 to 44 years,Men
+487,2010,9.11,0.118,Weekend days and holidays,35 to 44 years,Men
+488,2011,9.17,0.111,Weekend days and holidays,35 to 44 years,Men
+489,2012,9.09,0.107,Weekend days and holidays,35 to 44 years,Men
+490,2013,9.21,0.113,Weekend days and holidays,35 to 44 years,Men
+491,2014,9.16,0.118,Weekend days and holidays,35 to 44 years,Men
+492,2015,9.48,0.127,Weekend days and holidays,35 to 44 years,Men
+493,2016,9.27,0.135,Weekend days and holidays,35 to 44 years,Men
+494,2017,9.28,0.128,Weekend days and holidays,35 to 44 years,Men
+495,2003,8.08,0.056,All days,45 to 54 years,Men
+496,2004,8.11,0.082,All days,45 to 54 years,Men
+497,2005,8.03,0.08,All days,45 to 54 years,Men
+498,2006,8.2,0.082,All days,45 to 54 years,Men
+499,2007,8.18,0.086,All days,45 to 54 years,Men
+500,2008,8.16,0.076,All days,45 to 54 years,Men
+501,2009,8.17,0.064,All days,45 to 54 years,Men
+502,2010,8.15,0.072,All days,45 to 54 years,Men
+503,2011,8.23,0.072,All days,45 to 54 years,Men
+504,2012,8.38,0.086,All days,45 to 54 years,Men
+505,2013,8.4,0.083,All days,45 to 54 years,Men
+506,2014,8.46,0.082,All days,45 to 54 years,Men
+507,2015,8.22,0.08,All days,45 to 54 years,Men
+508,2016,8.17,0.079,All days,45 to 54 years,Men
+509,2017,8.47,0.109,All days,45 to 54 years,Men
+510,2003,7.76,0.074,Nonholiday weekdays,45 to 54 years,Men
+511,2004,7.83,0.109,Nonholiday weekdays,45 to 54 years,Men
+512,2005,7.72,0.102,Nonholiday weekdays,45 to 54 years,Men
+513,2006,7.87,0.108,Nonholiday weekdays,45 to 54 years,Men
+514,2007,7.85,0.103,Nonholiday weekdays,45 to 54 years,Men
+515,2008,7.81,0.1,Nonholiday weekdays,45 to 54 years,Men
+516,2009,7.82,0.08,Nonholiday weekdays,45 to 54 years,Men
+517,2010,7.79,0.101,Nonholiday weekdays,45 to 54 years,Men
+518,2011,7.95,0.091,Nonholiday weekdays,45 to 54 years,Men
+519,2012,8.03,0.095,Nonholiday weekdays,45 to 54 years,Men
+520,2013,8.15,0.106,Nonholiday weekdays,45 to 54 years,Men
+521,2014,8.12,0.101,Nonholiday weekdays,45 to 54 years,Men
+522,2015,7.81,0.099,Nonholiday weekdays,45 to 54 years,Men
+523,2016,7.78,0.101,Nonholiday weekdays,45 to 54 years,Men
+524,2017,8.23,0.15,Nonholiday weekdays,45 to 54 years,Men
+525,2003,8.82,0.09,Weekend days and holidays,45 to 54 years,Men
+526,2004,8.75,0.099,Weekend days and holidays,45 to 54 years,Men
+527,2005,8.81,0.119,Weekend days and holidays,45 to 54 years,Men
+528,2006,8.95,0.129,Weekend days and holidays,45 to 54 years,Men
+529,2007,8.95,0.137,Weekend days and holidays,45 to 54 years,Men
+530,2008,8.97,0.095,Weekend days and holidays,45 to 54 years,Men
+531,2009,8.93,0.121,Weekend days and holidays,45 to 54 years,Men
+532,2010,9.02,0.099,Weekend days and holidays,45 to 54 years,Men
+533,2011,8.89,0.102,Weekend days and holidays,45 to 54 years,Men
+534,2012,9.19,0.151,Weekend days and holidays,45 to 54 years,Men
+535,2013,8.98,0.112,Weekend days and holidays,45 to 54 years,Men
+536,2014,9.25,0.116,Weekend days and holidays,45 to 54 years,Men
+537,2015,9.24,0.131,Weekend days and holidays,45 to 54 years,Men
+538,2016,9.1,0.128,Weekend days and holidays,45 to 54 years,Men
+539,2017,9.07,0.119,Weekend days and holidays,45 to 54 years,Men
+540,2003,8.32,0.068,All days,55 to 64 years,Men
+541,2004,8.3,0.076,All days,55 to 64 years,Men
+542,2005,8.2,0.077,All days,55 to 64 years,Men
+543,2006,8.32,0.095,All days,55 to 64 years,Men
+544,2007,8.32,0.088,All days,55 to 64 years,Men
+545,2008,8.24,0.071,All days,55 to 64 years,Men
+546,2009,8.37,0.084,All days,55 to 64 years,Men
+547,2010,8.51,0.077,All days,55 to 64 years,Men
+548,2011,8.4,0.076,All days,55 to 64 years,Men
+549,2012,8.31,0.093,All days,55 to 64 years,Men
+550,2013,8.52,0.084,All days,55 to 64 years,Men
+551,2014,8.35,0.068,All days,55 to 64 years,Men
+552,2015,8.38,0.087,All days,55 to 64 years,Men
+553,2016,8.45,0.106,All days,55 to 64 years,Men
+554,2017,8.3,0.086,All days,55 to 64 years,Men
+555,2003,8.07,0.083,Nonholiday weekdays,55 to 64 years,Men
+556,2004,8.1,0.095,Nonholiday weekdays,55 to 64 years,Men
+557,2005,7.96,0.096,Nonholiday weekdays,55 to 64 years,Men
+558,2006,7.99,0.115,Nonholiday weekdays,55 to 64 years,Men
+559,2007,8.15,0.109,Nonholiday weekdays,55 to 64 years,Men
+560,2008,7.95,0.091,Nonholiday weekdays,55 to 64 years,Men
+561,2009,8.06,0.098,Nonholiday weekdays,55 to 64 years,Men
+562,2010,8.25,0.09,Nonholiday weekdays,55 to 64 years,Men
+563,2011,8.11,0.1,Nonholiday weekdays,55 to 64 years,Men
+564,2012,8.05,0.121,Nonholiday weekdays,55 to 64 years,Men
+565,2013,8.36,0.12,Nonholiday weekdays,55 to 64 years,Men
+566,2014,8.13,0.092,Nonholiday weekdays,55 to 64 years,Men
+567,2015,8.14,0.11,Nonholiday weekdays,55 to 64 years,Men
+568,2016,8.15,0.121,Nonholiday weekdays,55 to 64 years,Men
+569,2017,8.01,0.101,Nonholiday weekdays,55 to 64 years,Men
+570,2003,8.91,0.103,Weekend days and holidays,55 to 64 years,Men
+571,2004,8.78,0.095,Weekend days and holidays,55 to 64 years,Men
+572,2005,8.77,0.125,Weekend days and holidays,55 to 64 years,Men
+573,2006,9.1,0.158,Weekend days and holidays,55 to 64 years,Men
+574,2007,8.7,0.133,Weekend days and holidays,55 to 64 years,Men
+575,2008,8.91,0.108,Weekend days and holidays,55 to 64 years,Men
+576,2009,9.09,0.129,Weekend days and holidays,55 to 64 years,Men
+577,2010,9.14,0.133,Weekend days and holidays,55 to 64 years,Men
+578,2011,9.07,0.133,Weekend days and holidays,55 to 64 years,Men
+579,2012,8.92,0.161,Weekend days and holidays,55 to 64 years,Men
+580,2013,8.91,0.096,Weekend days and holidays,55 to 64 years,Men
+581,2014,8.88,0.103,Weekend days and holidays,55 to 64 years,Men
+582,2015,8.93,0.124,Weekend days and holidays,55 to 64 years,Men
+583,2016,9.14,0.169,Weekend days and holidays,55 to 64 years,Men
+584,2017,9,0.12,Weekend days and holidays,55 to 64 years,Men
+585,2003,8.89,0.066,All days,65 years and over,Men
+586,2004,8.76,0.067,All days,65 years and over,Men
+587,2005,8.98,0.098,All days,65 years and over,Men
+588,2006,9.03,0.081,All days,65 years and over,Men
+589,2007,8.91,0.102,All days,65 years and over,Men
+590,2008,8.95,0.088,All days,65 years and over,Men
+591,2009,8.83,0.085,All days,65 years and over,Men
+592,2010,9,0.081,All days,65 years and over,Men
+593,2011,9.05,0.092,All days,65 years and over,Men
+594,2012,8.81,0.075,All days,65 years and over,Men
+595,2013,8.83,0.078,All days,65 years and over,Men
+596,2014,8.96,0.087,All days,65 years and over,Men
+597,2015,8.97,0.078,All days,65 years and over,Men
+598,2016,8.9,0.072,All days,65 years and over,Men
+599,2017,8.75,0.077,All days,65 years and over,Men
+600,2003,8.79,0.084,Nonholiday weekdays,65 years and over,Men
+601,2004,8.63,0.092,Nonholiday weekdays,65 years and over,Men
+602,2005,8.99,0.124,Nonholiday weekdays,65 years and over,Men
+603,2006,8.99,0.108,Nonholiday weekdays,65 years and over,Men
+604,2007,8.79,0.133,Nonholiday weekdays,65 years and over,Men
+605,2008,8.95,0.116,Nonholiday weekdays,65 years and over,Men
+606,2009,8.68,0.116,Nonholiday weekdays,65 years and over,Men
+607,2010,8.93,0.098,Nonholiday weekdays,65 years and over,Men
+608,2011,8.97,0.119,Nonholiday weekdays,65 years and over,Men
+609,2012,8.68,0.097,Nonholiday weekdays,65 years and over,Men
+610,2013,8.67,0.099,Nonholiday weekdays,65 years and over,Men
+611,2014,8.9,0.113,Nonholiday weekdays,65 years and over,Men
+612,2015,8.89,0.102,Nonholiday weekdays,65 years and over,Men
+613,2016,8.81,0.094,Nonholiday weekdays,65 years and over,Men
+614,2017,8.68,0.106,Nonholiday weekdays,65 years and over,Men
+615,2003,9.12,0.082,Weekend days and holidays,65 years and over,Men
+616,2004,9.07,0.096,Weekend days and holidays,65 years and over,Men
+617,2005,8.97,0.118,Weekend days and holidays,65 years and over,Men
+618,2006,9.12,0.104,Weekend days and holidays,65 years and over,Men
+619,2007,9.21,0.118,Weekend days and holidays,65 years and over,Men
+620,2008,8.93,0.134,Weekend days and holidays,65 years and over,Men
+621,2009,9.19,0.106,Weekend days and holidays,65 years and over,Men
+622,2010,9.17,0.115,Weekend days and holidays,65 years and over,Men
+623,2011,9.25,0.125,Weekend days and holidays,65 years and over,Men
+624,2012,9.1,0.105,Weekend days and holidays,65 years and over,Men
+625,2013,9.2,0.091,Weekend days and holidays,65 years and over,Men
+626,2014,9.1,0.105,Weekend days and holidays,65 years and over,Men
+627,2015,9.15,0.091,Weekend days and holidays,65 years and over,Men
+628,2016,9.12,0.101,Weekend days and holidays,65 years and over,Men
+629,2017,8.89,0.116,Weekend days and holidays,65 years and over,Men
+630,2003,8.65,0.022,All days,15 years and over,Women
+631,2004,8.61,0.028,All days,15 years and over,Women
+632,2005,8.71,0.029,All days,15 years and over,Women
+633,2006,8.69,0.035,All days,15 years and over,Women
+634,2007,8.63,0.03,All days,15 years and over,Women
+635,2008,8.64,0.034,All days,15 years and over,Women
+636,2009,8.73,0.03,All days,15 years and over,Women
+637,2010,8.76,0.033,All days,15 years and over,Women
+638,2011,8.8,0.035,All days,15 years and over,Women
+639,2012,8.86,0.033,All days,15 years and over,Women
+640,2013,8.82,0.034,All days,15 years and over,Women
+641,2014,8.9,0.034,All days,15 years and over,Women
+642,2015,8.9,0.033,All days,15 years and over,Women
+643,2016,8.88,0.037,All days,15 years and over,Women
+644,2017,8.9,0.037,All days,15 years and over,Women
+645,2003,9.34,0.029,Weekend days and holidays,15 years and over,Women
+646,2004,9.27,0.037,Weekend days and holidays,15 years and over,Women
+647,2005,9.34,0.042,Weekend days and holidays,15 years and over,Women
+648,2006,9.36,0.047,Weekend days and holidays,15 years and over,Women
+649,2007,9.24,0.043,Weekend days and holidays,15 years and over,Women
+650,2008,9.36,0.047,Weekend days and holidays,15 years and over,Women
+651,2009,9.34,0.045,Weekend days and holidays,15 years and over,Women
+652,2010,9.4,0.046,Weekend days and holidays,15 years and over,Women
+653,2011,9.39,0.054,Weekend days and holidays,15 years and over,Women
+654,2012,9.46,0.048,Weekend days and holidays,15 years and over,Women
+655,2013,9.38,0.052,Weekend days and holidays,15 years and over,Women
+656,2014,9.52,0.049,Weekend days and holidays,15 years and over,Women
+657,2015,9.46,0.047,Weekend days and holidays,15 years and over,Women
+658,2016,9.49,0.051,Weekend days and holidays,15 years and over,Women
+659,2017,9.49,0.05,Weekend days and holidays,15 years and over,Women
+660,2003,8.36,0.028,Nonholiday weekdays,15 years and over,Women
+661,2004,8.33,0.038,Nonholiday weekdays,15 years and over,Women
+662,2005,8.45,0.038,Nonholiday weekdays,15 years and over,Women
+663,2006,8.4,0.045,Nonholiday weekdays,15 years and over,Women
+664,2007,8.36,0.041,Nonholiday weekdays,15 years and over,Women
+665,2008,8.33,0.044,Nonholiday weekdays,15 years and over,Women
+666,2009,8.47,0.039,Nonholiday weekdays,15 years and over,Women
+667,2010,8.49,0.042,Nonholiday weekdays,15 years and over,Women
+668,2011,8.56,0.045,Nonholiday weekdays,15 years and over,Women
+669,2012,8.6,0.043,Nonholiday weekdays,15 years and over,Women
+670,2013,8.57,0.047,Nonholiday weekdays,15 years and over,Women
+671,2014,8.63,0.042,Nonholiday weekdays,15 years and over,Women
+672,2015,8.66,0.045,Nonholiday weekdays,15 years and over,Women
+673,2016,8.62,0.047,Nonholiday weekdays,15 years and over,Women
+674,2017,8.65,0.047,Nonholiday weekdays,15 years and over,Women
+675,2003,9.16,0.075,All days,15 to 24 years,Women
+676,2004,9.34,0.105,All days,15 to 24 years,Women
+677,2005,9.35,0.094,All days,15 to 24 years,Women
+678,2006,9.17,0.097,All days,15 to 24 years,Women
+679,2007,9.2,0.107,All days,15 to 24 years,Women
+680,2008,9.13,0.119,All days,15 to 24 years,Women
+681,2009,9.33,0.098,All days,15 to 24 years,Women
+682,2010,9.27,0.115,All days,15 to 24 years,Women
+683,2011,9.31,0.111,All days,15 to 24 years,Women
+684,2012,9.53,0.112,All days,15 to 24 years,Women
+685,2013,9.38,0.128,All days,15 to 24 years,Women
+686,2014,9.6,0.131,All days,15 to 24 years,Women
+687,2015,9.64,0.129,All days,15 to 24 years,Women
+688,2016,9.5,0.143,All days,15 to 24 years,Women
+689,2017,9.66,0.136,All days,15 to 24 years,Women
+690,2003,10.07,0.093,Weekend days and holidays,15 to 24 years,Women
+691,2004,10.32,0.137,Weekend days and holidays,15 to 24 years,Women
+692,2005,9.83,0.122,Weekend days and holidays,15 to 24 years,Women
+693,2006,10.18,0.131,Weekend days and holidays,15 to 24 years,Women
+694,2007,10,0.141,Weekend days and holidays,15 to 24 years,Women
+695,2008,9.96,0.167,Weekend days and holidays,15 to 24 years,Women
+696,2009,9.78,0.16,Weekend days and holidays,15 to 24 years,Women
+697,2010,9.93,0.151,Weekend days and holidays,15 to 24 years,Women
+698,2011,10.15,0.187,Weekend days and holidays,15 to 24 years,Women
+699,2012,10.26,0.142,Weekend days and holidays,15 to 24 years,Women
+700,2013,10.15,0.17,Weekend days and holidays,15 to 24 years,Women
+701,2014,10.32,0.16,Weekend days and holidays,15 to 24 years,Women
+702,2015,10.15,0.191,Weekend days and holidays,15 to 24 years,Women
+703,2016,10.52,0.171,Weekend days and holidays,15 to 24 years,Women
+704,2017,10.5,0.163,Weekend days and holidays,15 to 24 years,Women
+705,2003,8.78,0.1,Nonholiday weekdays,15 to 24 years,Women
+706,2004,8.93,0.144,Nonholiday weekdays,15 to 24 years,Women
+707,2005,9.15,0.125,Nonholiday weekdays,15 to 24 years,Women
+708,2006,8.75,0.131,Nonholiday weekdays,15 to 24 years,Women
+709,2007,8.84,0.133,Nonholiday weekdays,15 to 24 years,Women
+710,2008,8.76,0.15,Nonholiday weekdays,15 to 24 years,Women
+711,2009,9.13,0.13,Nonholiday weekdays,15 to 24 years,Women
+712,2010,9,0.15,Nonholiday weekdays,15 to 24 years,Women
+713,2011,8.96,0.134,Nonholiday weekdays,15 to 24 years,Women
+714,2012,9.22,0.152,Nonholiday weekdays,15 to 24 years,Women
+715,2013,9.07,0.174,Nonholiday weekdays,15 to 24 years,Women
+716,2014,9.3,0.168,Nonholiday weekdays,15 to 24 years,Women
+717,2015,9.42,0.154,Nonholiday weekdays,15 to 24 years,Women
+718,2016,9.09,0.181,Nonholiday weekdays,15 to 24 years,Women
+719,2017,9.31,0.178,Nonholiday weekdays,15 to 24 years,Women
+720,2003,8.73,0.056,All days,25 to 34 years,Women
+721,2004,8.51,0.069,All days,25 to 34 years,Women
+722,2005,8.85,0.067,All days,25 to 34 years,Women
+723,2006,8.75,0.082,All days,25 to 34 years,Women
+724,2007,8.69,0.075,All days,25 to 34 years,Women
+725,2008,8.6,0.089,All days,25 to 34 years,Women
+726,2009,8.61,0.072,All days,25 to 34 years,Women
+727,2010,8.89,0.072,All days,25 to 34 years,Women
+728,2011,8.83,0.064,All days,25 to 34 years,Women
+729,2012,8.97,0.074,All days,25 to 34 years,Women
+730,2013,8.85,0.081,All days,25 to 34 years,Women
+731,2014,8.91,0.077,All days,25 to 34 years,Women
+732,2015,8.96,0.084,All days,25 to 34 years,Women
+733,2016,8.87,0.093,All days,25 to 34 years,Women
+734,2017,9.04,0.089,All days,25 to 34 years,Women
+735,2003,9.45,0.075,Weekend days and holidays,25 to 34 years,Women
+736,2004,9.37,0.088,Weekend days and holidays,25 to 34 years,Women
+737,2005,9.74,0.105,Weekend days and holidays,25 to 34 years,Women
+738,2006,9.44,0.099,Weekend days and holidays,25 to 34 years,Women
+739,2007,9.36,0.102,Weekend days and holidays,25 to 34 years,Women
+740,2008,9.58,0.094,Weekend days and holidays,25 to 34 years,Women
+741,2009,9.53,0.103,Weekend days and holidays,25 to 34 years,Women
+742,2010,9.62,0.123,Weekend days and holidays,25 to 34 years,Women
+743,2011,9.43,0.11,Weekend days and holidays,25 to 34 years,Women
+744,2012,9.69,0.124,Weekend days and holidays,25 to 34 years,Women
+745,2013,9.51,0.14,Weekend days and holidays,25 to 34 years,Women
+746,2014,9.72,0.125,Weekend days and holidays,25 to 34 years,Women
+747,2015,9.52,0.118,Weekend days and holidays,25 to 34 years,Women
+748,2016,9.65,0.13,Weekend days and holidays,25 to 34 years,Women
+749,2017,9.68,0.144,Weekend days and holidays,25 to 34 years,Women
+750,2003,8.44,0.075,Nonholiday weekdays,25 to 34 years,Women
+751,2004,8.16,0.088,Nonholiday weekdays,25 to 34 years,Women
+752,2005,8.47,0.084,Nonholiday weekdays,25 to 34 years,Women
+753,2006,8.45,0.111,Nonholiday weekdays,25 to 34 years,Women
+754,2007,8.41,0.099,Nonholiday weekdays,25 to 34 years,Women
+755,2008,8.2,0.119,Nonholiday weekdays,25 to 34 years,Women
+756,2009,8.23,0.087,Nonholiday weekdays,25 to 34 years,Women
+757,2010,8.59,0.09,Nonholiday weekdays,25 to 34 years,Women
+758,2011,8.57,0.084,Nonholiday weekdays,25 to 34 years,Women
+759,2012,8.65,0.091,Nonholiday weekdays,25 to 34 years,Women
+760,2013,8.56,0.096,Nonholiday weekdays,25 to 34 years,Women
+761,2014,8.57,0.102,Nonholiday weekdays,25 to 34 years,Women
+762,2015,8.71,0.112,Nonholiday weekdays,25 to 34 years,Women
+763,2016,8.54,0.124,Nonholiday weekdays,25 to 34 years,Women
+764,2017,8.78,0.113,Nonholiday weekdays,25 to 34 years,Women
+765,2003,8.48,0.053,All days,35 to 44 years,Women
+766,2004,8.3,0.062,All days,35 to 44 years,Women
+767,2005,8.38,0.054,All days,35 to 44 years,Women
+768,2006,8.49,0.073,All days,35 to 44 years,Women
+769,2007,8.41,0.071,All days,35 to 44 years,Women
+770,2008,8.44,0.06,All days,35 to 44 years,Women
+771,2009,8.53,0.069,All days,35 to 44 years,Women
+772,2010,8.5,0.072,All days,35 to 44 years,Women
+773,2011,8.51,0.069,All days,35 to 44 years,Women
+774,2012,8.69,0.08,All days,35 to 44 years,Women
+775,2013,8.67,0.068,All days,35 to 44 years,Women
+776,2014,8.63,0.064,All days,35 to 44 years,Women
+777,2015,8.68,0.083,All days,35 to 44 years,Women
+778,2016,8.58,0.064,All days,35 to 44 years,Women
+779,2017,8.77,0.088,All days,35 to 44 years,Women
+780,2003,9.31,0.06,Weekend days and holidays,35 to 44 years,Women
+781,2004,8.98,0.08,Weekend days and holidays,35 to 44 years,Women
+782,2005,9.26,0.083,Weekend days and holidays,35 to 44 years,Women
+783,2006,9.28,0.113,Weekend days and holidays,35 to 44 years,Women
+784,2007,9.23,0.087,Weekend days and holidays,35 to 44 years,Women
+785,2008,9.27,0.108,Weekend days and holidays,35 to 44 years,Women
+786,2009,9.25,0.09,Weekend days and holidays,35 to 44 years,Women
+787,2010,9.35,0.089,Weekend days and holidays,35 to 44 years,Women
+788,2011,9.33,0.13,Weekend days and holidays,35 to 44 years,Women
+789,2012,9.47,0.097,Weekend days and holidays,35 to 44 years,Women
+790,2013,9.42,0.105,Weekend days and holidays,35 to 44 years,Women
+791,2014,9.5,0.101,Weekend days and holidays,35 to 44 years,Women
+792,2015,9.35,0.106,Weekend days and holidays,35 to 44 years,Women
+793,2016,9.41,0.112,Weekend days and holidays,35 to 44 years,Women
+794,2017,9.46,0.112,Weekend days and holidays,35 to 44 years,Women
+795,2003,8.13,0.069,Nonholiday weekdays,35 to 44 years,Women
+796,2004,8.01,0.082,Nonholiday weekdays,35 to 44 years,Women
+797,2005,8.01,0.069,Nonholiday weekdays,35 to 44 years,Women
+798,2006,8.16,0.092,Nonholiday weekdays,35 to 44 years,Women
+799,2007,8.07,0.095,Nonholiday weekdays,35 to 44 years,Women
+800,2008,8.08,0.073,Nonholiday weekdays,35 to 44 years,Women
+801,2009,8.23,0.088,Nonholiday weekdays,35 to 44 years,Women
+802,2010,8.14,0.097,Nonholiday weekdays,35 to 44 years,Women
+803,2011,8.15,0.08,Nonholiday weekdays,35 to 44 years,Women
+804,2012,8.36,0.102,Nonholiday weekdays,35 to 44 years,Women
+805,2013,8.34,0.087,Nonholiday weekdays,35 to 44 years,Women
+806,2014,8.25,0.084,Nonholiday weekdays,35 to 44 years,Women
+807,2015,8.39,0.106,Nonholiday weekdays,35 to 44 years,Women
+808,2016,8.22,0.078,Nonholiday weekdays,35 to 44 years,Women
+809,2017,8.48,0.115,Nonholiday weekdays,35 to 44 years,Women
+810,2003,8.26,0.05,All days,45 to 54 years,Women
+811,2004,8.23,0.059,All days,45 to 54 years,Women
+812,2005,8.36,0.071,All days,45 to 54 years,Women
+813,2006,8.4,0.079,All days,45 to 54 years,Women
+814,2007,8.29,0.072,All days,45 to 54 years,Women
+815,2008,8.39,0.085,All days,45 to 54 years,Women
+816,2009,8.42,0.067,All days,45 to 54 years,Women
+817,2010,8.36,0.074,All days,45 to 54 years,Women
+818,2011,8.51,0.092,All days,45 to 54 years,Women
+819,2012,8.46,0.077,All days,45 to 54 years,Women
+820,2013,8.61,0.071,All days,45 to 54 years,Women
+821,2014,8.68,0.081,All days,45 to 54 years,Women
+822,2015,8.49,0.08,All days,45 to 54 years,Women
+823,2016,8.71,0.112,All days,45 to 54 years,Women
+824,2017,8.52,0.098,All days,45 to 54 years,Women
+825,2003,9.04,0.076,Weekend days and holidays,45 to 54 years,Women
+826,2004,9.05,0.088,Weekend days and holidays,45 to 54 years,Women
+827,2005,9.08,0.099,Weekend days and holidays,45 to 54 years,Women
+828,2006,9.4,0.106,Weekend days and holidays,45 to 54 years,Women
+829,2007,8.89,0.111,Weekend days and holidays,45 to 54 years,Women
+830,2008,9.13,0.098,Weekend days and holidays,45 to 54 years,Women
+831,2009,9.19,0.114,Weekend days and holidays,45 to 54 years,Women
+832,2010,9.22,0.101,Weekend days and holidays,45 to 54 years,Women
+833,2011,9.14,0.107,Weekend days and holidays,45 to 54 years,Women
+834,2012,9.25,0.13,Weekend days and holidays,45 to 54 years,Women
+835,2013,9.34,0.129,Weekend days and holidays,45 to 54 years,Women
+836,2014,9.49,0.129,Weekend days and holidays,45 to 54 years,Women
+837,2015,9.4,0.105,Weekend days and holidays,45 to 54 years,Women
+838,2016,9.3,0.145,Weekend days and holidays,45 to 54 years,Women
+839,2017,9.22,0.149,Weekend days and holidays,45 to 54 years,Women
+840,2003,7.93,0.061,Nonholiday weekdays,45 to 54 years,Women
+841,2004,7.9,0.073,Nonholiday weekdays,45 to 54 years,Women
+842,2005,8.06,0.093,Nonholiday weekdays,45 to 54 years,Women
+843,2006,7.97,0.105,Nonholiday weekdays,45 to 54 years,Women
+844,2007,8.04,0.092,Nonholiday weekdays,45 to 54 years,Women
+845,2008,8.07,0.111,Nonholiday weekdays,45 to 54 years,Women
+846,2009,8.08,0.087,Nonholiday weekdays,45 to 54 years,Women
+847,2010,7.99,0.102,Nonholiday weekdays,45 to 54 years,Women
+848,2011,8.25,0.112,Nonholiday weekdays,45 to 54 years,Women
+849,2012,8.12,0.1,Nonholiday weekdays,45 to 54 years,Women
+850,2013,8.29,0.092,Nonholiday weekdays,45 to 54 years,Women
+851,2014,8.33,0.101,Nonholiday weekdays,45 to 54 years,Women
+852,2015,8.12,0.103,Nonholiday weekdays,45 to 54 years,Women
+853,2016,8.47,0.143,Nonholiday weekdays,45 to 54 years,Women
+854,2017,8.22,0.128,Nonholiday weekdays,45 to 54 years,Women
+855,2003,8.39,0.055,All days,55 to 64 years,Women
+856,2004,8.3,0.073,All days,55 to 64 years,Women
+857,2005,8.35,0.069,All days,55 to 64 years,Women
+858,2006,8.47,0.083,All days,55 to 64 years,Women
+859,2007,8.2,0.081,All days,55 to 64 years,Women
+860,2008,8.29,0.084,All days,55 to 64 years,Women
+861,2009,8.49,0.072,All days,55 to 64 years,Women
+862,2010,8.49,0.074,All days,55 to 64 years,Women
+863,2011,8.54,0.076,All days,55 to 64 years,Women
+864,2012,8.61,0.073,All days,55 to 64 years,Women
+865,2013,8.46,0.08,All days,55 to 64 years,Women
+866,2014,8.51,0.065,All days,55 to 64 years,Women
+867,2015,8.63,0.088,All days,55 to 64 years,Women
+868,2016,8.61,0.078,All days,55 to 64 years,Women
+869,2017,8.51,0.086,All days,55 to 64 years,Women
+870,2003,8.93,0.077,Weekend days and holidays,55 to 64 years,Women
+871,2004,8.79,0.103,Weekend days and holidays,55 to 64 years,Women
+872,2005,8.78,0.103,Weekend days and holidays,55 to 64 years,Women
+873,2006,8.83,0.105,Weekend days and holidays,55 to 64 years,Women
+874,2007,8.76,0.11,Weekend days and holidays,55 to 64 years,Women
+875,2008,8.88,0.113,Weekend days and holidays,55 to 64 years,Women
+876,2009,9.02,0.115,Weekend days and holidays,55 to 64 years,Women
+877,2010,9.03,0.095,Weekend days and holidays,55 to 64 years,Women
+878,2011,8.97,0.116,Weekend days and holidays,55 to 64 years,Women
+879,2012,9.04,0.099,Weekend days and holidays,55 to 64 years,Women
+880,2013,8.84,0.106,Weekend days and holidays,55 to 64 years,Women
+881,2014,9.05,0.097,Weekend days and holidays,55 to 64 years,Women
+882,2015,9.02,0.11,Weekend days and holidays,55 to 64 years,Women
+883,2016,9.09,0.106,Weekend days and holidays,55 to 64 years,Women
+884,2017,9.04,0.098,Weekend days and holidays,55 to 64 years,Women
+885,2003,8.17,0.073,Nonholiday weekdays,55 to 64 years,Women
+886,2004,8.1,0.092,Nonholiday weekdays,55 to 64 years,Women
+887,2005,8.17,0.093,Nonholiday weekdays,55 to 64 years,Women
+888,2006,8.32,0.102,Nonholiday weekdays,55 to 64 years,Women
+889,2007,7.98,0.105,Nonholiday weekdays,55 to 64 years,Women
+890,2008,8.04,0.098,Nonholiday weekdays,55 to 64 years,Women
+891,2009,8.27,0.101,Nonholiday weekdays,55 to 64 years,Women
+892,2010,8.27,0.093,Nonholiday weekdays,55 to 64 years,Women
+893,2011,8.35,0.097,Nonholiday weekdays,55 to 64 years,Women
+894,2012,8.44,0.101,Nonholiday weekdays,55 to 64 years,Women
+895,2013,8.29,0.103,Nonholiday weekdays,55 to 64 years,Women
+896,2014,8.29,0.085,Nonholiday weekdays,55 to 64 years,Women
+897,2015,8.47,0.116,Nonholiday weekdays,55 to 64 years,Women
+898,2016,8.4,0.101,Nonholiday weekdays,55 to 64 years,Women
+899,2017,8.29,0.113,Nonholiday weekdays,55 to 64 years,Women
+900,2003,8.84,0.049,All days,65 years and over,Women
+901,2004,8.93,0.054,All days,65 years and over,Women
+902,2005,8.95,0.07,All days,65 years and over,Women
+903,2006,8.82,0.071,All days,65 years and over,Women
+904,2007,8.91,0.071,All days,65 years and over,Women
+905,2008,8.94,0.07,All days,65 years and over,Women
+906,2009,8.96,0.067,All days,65 years and over,Women
+907,2010,9.04,0.072,All days,65 years and over,Women
+908,2011,9.09,0.069,All days,65 years and over,Women
+909,2012,8.87,0.068,All days,65 years and over,Women
+910,2013,8.9,0.063,All days,65 years and over,Women
+911,2014,9.02,0.066,All days,65 years and over,Women
+912,2015,8.97,0.059,All days,65 years and over,Women
+913,2016,8.97,0.054,All days,65 years and over,Women
+914,2017,8.91,0.072,All days,65 years and over,Women
+915,2003,9.18,0.072,Weekend days and holidays,65 years and over,Women
+916,2004,9.05,0.067,Weekend days and holidays,65 years and over,Women
+917,2005,9.28,0.119,Weekend days and holidays,65 years and over,Women
+918,2006,8.94,0.094,Weekend days and holidays,65 years and over,Women
+919,2007,9.13,0.104,Weekend days and holidays,65 years and over,Women
+920,2008,9.31,0.099,Weekend days and holidays,65 years and over,Women
+921,2009,9.21,0.083,Weekend days and holidays,65 years and over,Women
+922,2010,9.22,0.094,Weekend days and holidays,65 years and over,Women
+923,2011,9.29,0.094,Weekend days and holidays,65 years and over,Women
+924,2012,9.06,0.104,Weekend days and holidays,65 years and over,Women
+925,2013,9.06,0.091,Weekend days and holidays,65 years and over,Women
+926,2014,9.13,0.094,Weekend days and holidays,65 years and over,Women
+927,2015,9.3,0.086,Weekend days and holidays,65 years and over,Women
+928,2016,9.1,0.081,Weekend days and holidays,65 years and over,Women
+929,2017,9.15,0.1,Weekend days and holidays,65 years and over,Women
+930,2003,8.7,0.06,Nonholiday weekdays,65 years and over,Women
+931,2004,8.88,0.071,Nonholiday weekdays,65 years and over,Women
+932,2005,8.81,0.081,Nonholiday weekdays,65 years and over,Women
+933,2006,8.77,0.097,Nonholiday weekdays,65 years and over,Women
+934,2007,8.82,0.088,Nonholiday weekdays,65 years and over,Women
+935,2008,8.79,0.086,Nonholiday weekdays,65 years and over,Women
+936,2009,8.86,0.083,Nonholiday weekdays,65 years and over,Women
+937,2010,8.96,0.092,Nonholiday weekdays,65 years and over,Women
+938,2011,9.02,0.085,Nonholiday weekdays,65 years and over,Women
+939,2012,8.79,0.089,Nonholiday weekdays,65 years and over,Women
+940,2013,8.83,0.085,Nonholiday weekdays,65 years and over,Women
+941,2014,8.98,0.086,Nonholiday weekdays,65 years and over,Women
+942,2015,8.83,0.074,Nonholiday weekdays,65 years and over,Women
+943,2016,8.92,0.071,Nonholiday weekdays,65 years and over,Women
+944,2017,8.81,0.091,Nonholiday weekdays,65 years and over,Women
